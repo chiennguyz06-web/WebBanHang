@@ -1,4 +1,4 @@
-package com.example.WebBanHang;
+package com.example.WebBanHang.WebBanHang;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
